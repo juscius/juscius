@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justas</h1>
-<h3 align="center">Welcome to the Master tier profile! I am your guide to the mindblowing world of Python and data.</h3>
+<h2 align="center">Welcome to the Master tier profile! I am your guide to the mindblowing world of Python and data.</h2>
 <p align="center">
-  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/623/708/datas/medium.gif" width="480" height="343" alt="GIF" />
+  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/623/708/datas/medium.gif" width="550" height="300" alt="GIF" />
 </p>
 
 🌱 I’m currently learning Data Engineering stuff.<br><br>💬 Ask me about anything.<br>
