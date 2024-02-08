@@ -10,7 +10,7 @@
   <br>
     🎓 <strong style="font-size: 20px;">Currently learning Data Engineering, Data Science, and AI</strong>
 </p>
-
+ <br>
 <h1 align="left">Hobbies:</h1>
 
 🎣 Fishing          🚶‍♂️ Travelling     📚 Reading        💻 Programming</p>
