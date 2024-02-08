@@ -7,6 +7,7 @@
 <h1 align="left">About me:</h1>
 <p align="left">
     👨‍🎓 <strong style="font-size: 20px;">24 years old</strong><br>
+  <br>
     🎓 <strong style="font-size: 20px;">Currently learning Data Engineering, Data Science, and AI</strong>
 </p>
 
