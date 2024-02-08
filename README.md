@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justas</h1>
 <h3 align="center">Welcome to the Master tier profile! I am your guide to the mindblowing world of Python and data.</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="480" height="343" alt="GIF" />
+  <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/623/708/datas/medium.gif" width="480" height="343" alt="GIF" />
 </p>
 
 <p align="left"> <a href="https://twitter.com/justzasz" target="blank"><img src="https://img.shields.io/twitter/follow/justzasz?logo=twitter&style=for-the-badge" alt="justzasz" /></a> </p>
