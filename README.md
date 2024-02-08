@@ -6,9 +6,10 @@
 
 <h1 align="left">About me:</h1>
 <p align="left">
-    👨‍🎓 <strong style="font-size: 1.5em;">24 years old</strong><br>
-    🎓 <strong style="font-size: 1.5em;">Currently learning Data Engineering, Data Science, and AI</strong>
+    👨‍🎓 <strong style="font-size: 20px;">24 years old</strong><br>
+    🎓 <strong style="font-size: 20px;">Currently learning Data Engineering, Data Science, and AI</strong>
 </p>
+
 <h1 align="left">Hobbies:</h1>
 
 🎣 Fishing          🚶‍♂️ Travelling     📚 Reading        💻 Programming</p>
