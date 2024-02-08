@@ -9,7 +9,6 @@
     👨‍🎓 <strong style="font-size: 1.1em;">24 years old</strong><br>
     🎓 <strong style="font-size: 1.1em;">Currently learning Data Engineering, Data Science, and AI</strong>
 </p>
-<br>
 <h1 align="left">Hobbies:</h1>
 
 🎣 Fishing          🚶‍♂️ Travelling     📚 Reading        💻 Programming</p>
