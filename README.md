@@ -3,6 +3,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/f2/f2bd4576356ac15f0ed76b3439fe9130.gif">
 
+<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>
+
 <p align="left"> <a href="https://twitter.com/justzasz" target="blank"><img src="https://img.shields.io/twitter/follow/justzasz?logo=twitter&style=for-the-badge" alt="justzasz" /></a> </p>
 
 - 🌱 I’m currently learning **Data Engineering stuff.**
