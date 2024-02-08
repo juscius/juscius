@@ -4,9 +4,10 @@
   <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/623/708/datas/medium.gif" width="550" height="300" alt="GIF" />
 </p>
 
-<h4
-🌱 I’m currently learning Data Engineering stuff.<br><br>💬 Ask me about anything.<br>
-</h4>
+
+🎓 Currently learning Data Engineering stuff.<br><br>
+💬 Ask me about anything.<br>
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/justas.vasiljevas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/justelizs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/justas-vasiljevas-285233184) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/justaxas1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18417938) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/justazs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/justzasz) 
