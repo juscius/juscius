@@ -4,10 +4,91 @@
   <img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/002/623/708/datas/medium.gif" width="550" height="300" alt="GIF" />
 </p>
 
+<h1 align="left">About me:</h1>
+<p align="left">👨‍🎓 24 years old<br>
+🎓 Currently learning Data Engineering, Data Science, and AI</p>
 
-🎓 Currently learning Data Engineering stuff.<br><br>
-💬 Ask me about anything.<br>
+<h1 align="left">Hobbies:</h1>
 
+Fishing, travelling, reading, programming, ice skating, skiing, swimming, folk dancing (14 years), climbing, hand standing, street workout</p>
+
+<h1 align="left">Please challange me at:</h1>
+Checkers, chess, poker, volleyball, football, table tennis, tennis, league of legends, bowling, beer pong.</p>
+
+<h1 align="left">Travels:</h1>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <div style="margin: 10px;">
+        🇱🇻 Latvia
+    </div>
+    <div style="margin: 10px;">
+        🇪🇪 Estonia
+    </div>
+    <div style="margin: 10px;">
+        🇳🇴 Norway
+    </div>
+    <div style="margin: 10px;">
+        🇵🇱 Poland
+    </div>
+    <div style="margin: 10px;">
+        🇩🇪 Germany
+    </div>
+    <div style="margin: 10px;">
+        🇳🇱 Netherlands
+    </div>
+    <div style="margin: 10px;">
+        🇺🇦 Ukraine
+    </div>
+    <div style="margin: 10px;">
+        🇪🇸 Spain
+    </div>
+    <div style="margin: 10px;">
+        🇨🇾 Cyprus
+    </div>
+    <div style="margin: 10px;">
+        🇲🇪 Montenegro
+    </div>
+    <div style="margin: 10px;">
+        🇬🇮 Gibraltar
+    </div>
+    <div style="margin: 10px;">
+        🇨🇿 Czech Republic
+    </div>
+    <div style="margin: 10px;">
+        🇭🇷 Croatia
+    </div>
+    <div style="margin: 10px;">
+        🇭🇺 Hungary
+    </div>
+    <div style="margin: 10px;">
+        🇫🇷 France
+    </div>
+</div>
+
+    Latvia 🇱🇻
+    Estonia 🇪🇪
+    Norway 🇳🇴
+    Poland 🇵🇱
+    Germany 🇩🇪
+    Netherlands 🇳🇱
+    Ukraine 🇺🇦
+    Spain 🇪🇸
+    Cyprus 🇨🇾
+    Montenegro 🇲🇪
+    Gibraltar 🇬🇮
+    Czech Republic 🇨🇿
+    Croatia 🇭🇷
+    Hungary 🇭🇺
+    France 🇫🇷 
+    
+|                | Countries visited|               |
+| -------------- | -------------- | -------------- |
+| 🇱🇻 Latvia    | 🇪🇪 Estonia   | 🇳🇴 Norway    |
+| 🇵🇱 Poland    | 🇩🇪 Germany   | 🇳🇱 Netherlands |
+| 🇺🇦 Ukraine   | 🇪🇸 Spain     | 🇨🇾 Cyprus    |
+| 🇲🇪 Montenegro| 🇬🇮 Gibraltar | 🇨🇿 Czech Republic |
+| 🇭🇷 Croatia   | 🇭🇺 Hungary   | 🇫🇷 France    |
+
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/justas.vasiljevas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/justelizs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/justas-vasiljevas-285233184) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/justaxas1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18417938) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/justazs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/justzasz) 
