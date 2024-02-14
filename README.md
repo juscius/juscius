@@ -19,12 +19,12 @@
 </p>
 <br>
 
-<h1 align="left">🏆 Please challenge me at:</h1>
+<h1 align="left">Please challenge me at:</h1>
  ♟️ Checkers         🃏 Poker           ⚽ Football     🏓 Table tennis     🎮 League of Legends  </p>
  ♚ Chess (rookie)   🏐 Volleyball      🎳 Bowling      🎾 Tennis           🍺🏓 Beer pong  </p>
 <br>
   
-<h1 align="left">🌍I've been...</h1>
+<h1 align="left">I've been...</h1>
 
  🇱🇻 Latvia    🇪🇪 Estonia      🇺🇦 Ukraine      🇵🇱 Poland</p>
  🇩🇪 Germany   🇳🇱 Netherlands  🇫🇷 France       🇪🇸 Spain  </p>
