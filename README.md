@@ -20,7 +20,7 @@
 <br>
 
 <h1 align="left">Please challenge me at:</h1>
- ♟️ Checkers         🃏 Poker           ⚽ Football     🏓 Table tennis     🎮 League of Legends  </p>
+ ♟️ Draughts         🃏 Poker           ⚽ Football     🏓 Table tennis     🎮 League of Legends  </p>
  ♚ Chess (rookie)   🏐 Volleyball      🎳 Bowling      🎾 Tennis           🍺🏓 Beer pong  </p>
 <br>
   
