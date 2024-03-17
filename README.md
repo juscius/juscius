@@ -8,6 +8,8 @@
 <p align="left">
     👨‍🎓 <strong style="font-size: 20px;">24 years old</strong><br>
   <br>
+    # <strong style="font-size: 20px;">Software engineering graduate @ Vilnius Tech university </strong><br>
+  <br>
     🎓 <strong style="font-size: 20px;">Currently learning Data Science, and AI</strong>
 </p>
  <br>
