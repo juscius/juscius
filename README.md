@@ -8,7 +8,7 @@
 <p align="left">
     👨‍🎓 <strong style="font-size: 20px;">24 years old</strong><br>
   <br>
-    🎓 <strong style="font-size: 20px;">Currently learning Data Engineering, Data Science, and AI</strong>
+    🎓 <strong style="font-size: 20px;">Currently learning Data Science, and AI</strong>
 </p>
  <br>
 <h1 align="left">Hobbies:</h1>
