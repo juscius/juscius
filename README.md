@@ -6,13 +6,11 @@
 
 <h1 align="left">About me:</h1>
 <p align="left">
-    👨‍🎓 <strong style="font-size: 20px;">24 years old</strong><br>
-  <br>
-    # <strong style="font-size: 20px;">Software engineering graduate @ Vilnius Tech university </strong><br>
-  <br>
-    🎓 <strong style="font-size: 20px;">Currently learning Data Science, and AI</strong>
+    # <strong style="font-size: 20px;">24 years old</strong><br>
+    # <strong style="font-size: 20px;">Software engineering graduate @ Vilnius Tech university<br>
+    # Data analytics graduate @ Turing College </strong><br>
+    # <strong style="font-size: 20px;">Currently learning Data Science, and AI</strong>
 </p>
- <br>
 <h1 align="left">Hobbies:</h1>
 
 🎣 Fishing          🚶‍♂️ Travelling     📚 Reading        💻 Programming</p>
